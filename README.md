@@ -2,7 +2,11 @@
 Automatyczna drylownica do wiśni jest tematem pracy dyplomowej inżynierskiej autorstwa Bartosza Mokrzeckiego oraz Sławomira Lida, obronionej na Politechnice Poznańskiej w roku akademickim 2020/2021, prowadzonej przez Dr Hab. inż Pawła Drapikowskiego.
 
 ## Praca dyplomowa
-Kompletna praca dyplomowa (plik _"Praca_Inżynierska_Sławomir_Lida_Bartosz_Mokrzecki.pdf"_) jest dostępna w tym repozytorium.
+Kompletna praca dyplomowa (_"Praca_Inżynierska_Sławomir_Lida_Bartosz_Mokrzecki.pdf"_) jest dostępna w tym repozytorium.
+
+## Podział obowiązków
+Do moich zadań należało przygotowanie elektroniki, tj. płytki drukowanej, umieszczenie na niej poszczególnych komponentów, rozszerzenie podstawy programu mikrokontrolera wykonanej przez Bartosza Mokrzeckiego o konkretne interakcje.
+</br>Do wspólnych zadań należał montaż fizyczny urządzenia, testy, badania.
 
 # Wideo instruktażowe
 [Prezentacja w serwisie YouTube](https://www.youtube.com/shorts/l-_eOu30rVU)
